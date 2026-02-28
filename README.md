@@ -1,4 +1,4 @@
-# Hi my name is Benjamin Yeboah
+# Hi my name is Benjamin
 ## Data Analyst | Transforming messy data to usable insights
 
 [My LinkedIn] (https://www.linkedin.com/in/benjamin-yeboah1) | [My Email] (yeboahbenjamin528@gmail.com)
