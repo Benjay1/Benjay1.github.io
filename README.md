@@ -1,7 +1,7 @@
 # Hi my name is Benjamin Yeboah
 ## Data Analyst | Transforming messy data to usable insights
 
-[My LinkedIn] (https://www.linkedin.com/in/benjamin-yeboah1) | [My Email] (mailto:yeboahbenjamin528@gmail.com)
+[My LinkedIn] (https://www.linkedin.com/in/benjamin-yeboah1) | [My Email] (yeboahbenjamin528@gmail.com)
 
 ## Featured Projects
 ### 1. [Data Cleaning principles]
